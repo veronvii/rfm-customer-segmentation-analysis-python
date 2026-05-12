@@ -6,11 +6,11 @@
 
 ## Используемые инструменты
 
-Python
-pandas
-matplotlib
-seaborn
-Jupyter Notebook
+Python,
+pandas,
+matplotlib,
+seaborn,
+Jupyter Notebook.
 
 ## Что сделано
 
