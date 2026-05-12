@@ -1,0 +1,361 @@
+user_id,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Segment,RFM_Score,Segment
+U1001,11,9,1475.18,5,4,5,545,14,Champions
+U1002,5,14,2236.34,5,5,5,555,15,Champions
+U1003,31,11,1827.5,4,5,5,455,14,Champions
+U1004,12,12,1921.36,5,5,5,555,15,Champions
+U1005,1,13,2916.47,5,5,5,555,15,Champions
+U1006,10,14,2064.7,5,5,5,555,15,Champions
+U1007,6,10,1638.77,5,4,5,545,14,Champions
+U1008,6,16,2694.98,5,5,5,555,15,Champions
+U1009,15,15,2435.64,5,5,5,555,15,Champions
+U1010,13,16,2218.7999999999997,5,5,5,555,15,Champions
+U1011,23,9,1261.38,4,4,4,444,12,Champions
+U1012,15,12,2905.84,5,5,5,555,15,Champions
+U1013,16,10,2362.74,5,4,5,545,14,Champions
+U1014,16,13,2536.53,5,5,5,555,15,Champions
+U1015,10,11,1795.8400000000001,5,5,5,555,15,Champions
+U1016,36,13,1897.11,4,5,5,455,14,Champions
+U1017,8,18,2171.8199999999997,5,5,5,555,15,Champions
+U1018,14,15,2722.9,5,5,5,555,15,Champions
+U1019,12,11,1524.19,5,5,5,555,15,Champions
+U1020,17,17,3825.42,5,5,5,555,15,Champions
+U1021,54,15,3153.12,4,5,5,455,14,Champions
+U1022,4,13,2720.15,5,5,5,555,15,Champions
+U1023,1,11,1859.69,5,5,5,555,15,Champions
+U1024,19,9,1739.75,4,4,5,445,13,Champions
+U1025,28,11,1868.98,4,5,5,455,14,Champions
+U1026,18,9,1266.74,5,4,4,544,13,Champions
+U1027,37,11,1851.28,4,5,5,455,14,Champions
+U1028,27,14,2169.67,4,5,5,455,14,Champions
+U1029,4,13,1680.56,5,5,5,555,15,Champions
+U1030,1,16,2910.1,5,5,5,555,15,Champions
+U1031,40,9,1140.92,4,4,4,444,12,Champions
+U1032,15,13,1973.34,5,5,5,555,15,Champions
+U1033,12,14,1687.66,5,5,5,555,15,Champions
+U1034,3,17,4114.79,5,5,5,555,15,Champions
+U1035,22,17,2447.93,4,5,5,455,14,Champions
+U1036,3,14,2692.75,5,5,5,555,15,Champions
+U1037,3,16,2524.39,5,5,5,555,15,Champions
+U1038,3,16,2741.31,5,5,5,555,15,Champions
+U1039,6,16,3804.92,5,5,5,555,15,Champions
+U1040,8,12,1757.74,5,5,5,555,15,Champions
+U1041,3,13,2461.4700000000003,5,5,5,555,15,Champions
+U1042,25,14,1995.52,4,5,5,455,14,Champions
+U1043,4,10,1806.6,5,4,5,545,14,Champions
+U1044,20,13,1894.3,4,5,5,455,14,Champions
+U1045,4,17,3118.52,5,5,5,555,15,Champions
+U1046,25,5,394.09000000000003,4,3,3,433,10,Loyal Customers
+U1047,134,7,809.8499999999999,3,4,3,343,10,Sleeping Customers
+U1048,1,8,1315.79,5,4,4,544,13,Champions
+U1049,107,9,881.35,3,4,4,344,11,Sleeping Customers
+U1050,25,10,962.61,4,5,4,454,13,Champions
+U1051,13,11,1050.75,5,5,4,554,14,Champions
+U1052,20,7,1098.98,4,4,4,444,12,Champions
+U1053,109,10,1606.49,3,5,5,355,13,Sleeping Customers
+U1054,49,8,1747.8799999999999,4,4,5,445,13,Champions
+U1055,200,6,716.82,3,3,3,333,9,Sleeping Customers
+U1056,73,5,412.89,3,3,3,333,9,Sleeping Customers
+U1057,47,5,423.61,4,3,3,433,10,Loyal Customers
+U1058,37,10,1585.1100000000001,4,5,5,455,14,Champions
+U1059,94,7,1265.89,3,4,4,344,11,Sleeping Customers
+U1060,75,9,1041.77,3,4,4,344,11,Sleeping Customers
+U1061,84,8,694.86,3,4,3,343,10,Sleeping Customers
+U1062,36,9,850.38,4,4,4,444,12,Champions
+U1063,140,6,695.24,3,3,3,333,9,Sleeping Customers
+U1064,44,12,1402.31,4,5,4,454,13,Champions
+U1065,164,7,938.24,3,4,4,344,11,Sleeping Customers
+U1066,88,9,946.63,3,4,4,344,11,Sleeping Customers
+U1067,84,7,1120.31,3,4,4,344,11,Sleeping Customers
+U1068,117,9,1248.94,3,4,4,344,11,Sleeping Customers
+U1069,7,11,944.98,5,5,4,554,14,Champions
+U1070,128,11,1113.59,3,5,4,354,12,Sleeping Customers
+U1071,85,6,794.99,3,3,3,333,9,Sleeping Customers
+U1072,43,6,597.24,4,3,3,433,10,Loyal Customers
+U1073,20,12,1369.92,4,5,4,454,13,Champions
+U1074,123,6,950.96,3,3,4,334,10,Sleeping Customers
+U1075,25,7,846.86,4,4,4,444,12,Champions
+U1076,211,6,784.49,3,3,3,333,9,Sleeping Customers
+U1077,58,12,1474.1599999999999,4,5,5,455,14,Champions
+U1078,100,11,1500.84,3,5,5,355,13,Sleeping Customers
+U1079,61,5,755.76,3,3,3,333,9,Sleeping Customers
+U1080,56,6,621.95,4,3,3,433,10,Loyal Customers
+U1081,26,6,719.89,4,3,3,433,10,Loyal Customers
+U1082,20,7,813.67,4,4,3,443,11,Loyal Customers
+U1083,80,9,1127.19,3,4,4,344,11,Sleeping Customers
+U1084,58,8,886.27,4,4,4,444,12,Champions
+U1085,177,6,511.83,3,3,3,333,9,Sleeping Customers
+U1086,14,12,1169.3400000000001,5,5,4,554,14,Champions
+U1087,16,10,1000.95,5,5,4,554,14,Champions
+U1088,109,11,1763.47,3,5,5,355,13,Sleeping Customers
+U1089,74,12,1657.96,3,5,5,355,13,Sleeping Customers
+U1090,18,12,1284.1399999999999,4,5,4,454,13,Champions
+U1091,120,5,667.14,3,3,3,333,9,Sleeping Customers
+U1092,63,6,1013.4,3,3,4,334,10,Sleeping Customers
+U1093,76,10,1564.45,3,5,5,355,13,Sleeping Customers
+U1094,174,6,582.8100000000001,3,3,3,333,9,Sleeping Customers
+U1095,146,7,1051.17,3,4,4,344,11,Sleeping Customers
+U1096,4,6,857.01,5,3,4,534,12,Loyal Customers
+U1097,14,10,1270.58,5,5,4,554,14,Champions
+U1098,16,6,668.37,5,3,3,533,11,Loyal Customers
+U1099,18,7,622.37,4,4,3,443,11,Loyal Customers
+U1100,19,11,826.86,4,5,3,453,12,Loyal Customers
+U1101,2,6,1422.03,5,3,4,534,12,Loyal Customers
+U1102,107,9,1204.3700000000001,3,4,4,344,11,Sleeping Customers
+U1103,43,12,1962.39,4,5,5,455,14,Champions
+U1104,3,10,2005.01,5,5,5,555,15,Champions
+U1105,101,12,1054.79,3,5,4,354,12,Sleeping Customers
+U1106,134,6,683.62,3,3,3,333,9,Sleeping Customers
+U1107,67,5,422.11,3,3,3,333,9,Sleeping Customers
+U1108,67,5,705.3399999999999,3,3,3,333,9,Sleeping Customers
+U1109,16,7,589.9599999999999,5,4,3,543,12,Loyal Customers
+U1110,56,8,1124.49,4,4,4,444,12,Champions
+U1111,22,7,743.48,4,4,3,443,11,Loyal Customers
+U1112,13,8,1724.2,5,4,5,545,14,Champions
+U1113,6,11,1442.5,5,5,4,554,14,Champions
+U1114,68,12,1444.0,3,5,4,354,12,Sleeping Customers
+U1115,296,8,1443.09,2,4,4,244,10,Lost Customers
+U1116,4,2,221.64,5,1,2,512,8,New Customers
+U1117,8,1,110.77,5,1,1,511,7,New Customers
+U1118,13,1,83.03,5,1,1,511,7,New Customers
+U1119,37,2,96.94,4,1,1,411,6,New Customers
+U1120,7,1,705.13,5,1,3,513,9,New Customers
+U1121,28,2,78.39,4,1,1,411,6,New Customers
+U1122,38,1,56.97,4,1,1,411,6,New Customers
+U1123,8,1,123.24,5,1,1,511,7,New Customers
+U1124,1,3,577.94,5,2,3,523,10,New Customers
+U1125,37,1,100.34,4,1,1,411,6,New Customers
+U1126,19,1,51.91,4,1,1,411,6,New Customers
+U1127,29,3,342.56,4,2,3,423,9,New Customers
+U1128,30,3,268.77,4,2,2,422,8,New Customers
+U1129,30,2,103.2,4,1,1,411,6,New Customers
+U1130,34,2,155.38,4,1,2,412,7,New Customers
+U1131,40,2,89.21000000000001,4,1,1,411,6,New Customers
+U1132,24,3,196.44,4,2,2,422,8,New Customers
+U1133,34,2,149.03,4,1,2,412,7,New Customers
+U1134,7,3,186.37,5,2,2,522,9,New Customers
+U1135,35,1,65.16,4,1,1,411,6,New Customers
+U1136,21,1,35.41,4,1,1,411,6,New Customers
+U1137,2,2,172.98000000000002,5,1,2,512,8,New Customers
+U1138,35,2,49.21,4,1,1,411,6,New Customers
+U1139,52,1,58.31,4,1,1,411,6,New Customers
+U1140,4,3,256.89,5,2,2,522,9,New Customers
+U1141,19,2,243.09999999999997,4,1,2,412,7,New Customers
+U1142,5,2,164.86,5,1,2,512,8,New Customers
+U1143,48,2,240.17000000000002,4,1,2,412,7,New Customers
+U1144,18,2,1437.7,4,1,4,414,9,New Customers
+U1145,3,3,193.34,5,2,2,522,9,New Customers
+U1146,2,2,251.87,5,1,2,512,8,New Customers
+U1147,44,1,49.15,4,1,1,411,6,New Customers
+U1148,3,3,164.88,5,2,2,522,9,New Customers
+U1149,11,3,196.82,5,2,2,522,9,New Customers
+U1150,6,2,102.31,5,1,1,511,7,New Customers
+U1151,5,2,189.35,5,1,2,512,8,New Customers
+U1152,45,1,43.79,4,1,1,411,6,New Customers
+U1153,1,1,45.6,5,1,1,511,7,New Customers
+U1154,47,1,48.48,4,1,1,411,6,New Customers
+U1155,34,1,37.73,4,1,1,411,6,New Customers
+U1156,35,2,115.31,4,1,1,411,6,New Customers
+U1157,61,1,63.74,3,1,1,311,5,Needs Attention
+U1158,16,3,274.08,5,2,2,522,9,New Customers
+U1159,22,3,350.01,4,2,3,423,9,New Customers
+U1160,45,1,140.1,4,1,2,412,7,New Customers
+U1161,4,2,138.52,5,1,2,512,8,New Customers
+U1162,26,1,123.67,4,1,1,411,6,New Customers
+U1163,58,1,48.83,4,1,1,411,6,New Customers
+U1164,4,2,149.17,5,1,2,512,8,New Customers
+U1165,39,1,104.14,4,1,1,411,6,New Customers
+U1166,4,3,251.34,5,2,2,522,9,New Customers
+U1167,52,2,150.10999999999999,4,2,2,422,8,New Customers
+U1168,6,1,198.32,5,1,2,512,8,New Customers
+U1169,1,3,307.82,5,2,3,523,10,New Customers
+U1170,42,1,233.51,4,1,2,412,7,New Customers
+U1171,19,2,137.22,4,2,2,422,8,New Customers
+U1172,22,2,250.79000000000002,4,2,2,422,8,New Customers
+U1173,20,3,308.3,4,2,3,423,9,New Customers
+U1174,29,3,142.29,4,2,2,422,8,New Customers
+U1175,56,2,285.52,4,2,2,422,8,New Customers
+U1176,48,1,43.86,4,1,1,411,6,New Customers
+U1177,36,1,136.1,4,1,2,412,7,New Customers
+U1178,9,2,186.62,5,2,2,522,9,New Customers
+U1179,9,1,443.83,5,1,3,513,9,New Customers
+U1180,8,3,270.1,5,2,2,522,9,New Customers
+U1181,271,10,1530.72,2,5,5,255,12,Lost Customers
+U1182,237,6,674.71,3,3,3,333,9,Sleeping Customers
+U1183,263,9,1093.1100000000001,2,4,4,244,10,Lost Customers
+U1184,320,7,829.24,2,4,3,243,9,High check Customers
+U1185,332,10,1781.84,2,5,5,255,12,Lost Customers
+U1186,244,4,461.28,3,2,3,323,8,Needs Attention
+U1187,247,9,1228.98,3,4,4,344,11,Sleeping Customers
+U1188,278,5,786.16,2,3,3,233,8,High check Customers
+U1189,228,10,1628.35,3,5,5,355,13,Sleeping Customers
+U1190,219,6,963.05,3,3,4,334,10,Sleeping Customers
+U1191,215,9,1483.01,3,4,5,345,12,Sleeping Customers
+U1192,226,10,1332.05,3,5,4,354,12,Sleeping Customers
+U1193,298,7,964.6800000000001,2,4,4,244,10,Lost Customers
+U1194,430,4,657.95,2,2,3,223,7,Regular Customers
+U1195,533,4,418.1,1,3,3,133,7,High check Customers
+U1196,354,7,1192.0,2,4,4,244,10,Lost Customers
+U1197,322,10,1551.5,2,5,5,255,12,Lost Customers
+U1198,231,10,1218.47,3,5,4,354,12,Sleeping Customers
+U1199,222,7,1039.6100000000001,3,4,4,344,11,Sleeping Customers
+U1200,252,8,966.14,3,4,4,344,11,Sleeping Customers
+U1201,231,5,533.21,3,3,3,333,9,Sleeping Customers
+U1202,217,8,1651.77,3,4,5,345,12,Sleeping Customers
+U1203,215,9,2126.75,3,4,5,345,12,Sleeping Customers
+U1204,277,7,1455.78,2,4,5,245,11,Lost Customers
+U1205,354,5,901.73,2,3,4,234,9,High check Customers
+U1206,216,4,591.39,3,3,3,333,9,Sleeping Customers
+U1207,307,5,785.16,2,3,3,233,8,High check Customers
+U1208,297,6,821.55,2,3,3,233,8,High check Customers
+U1209,239,7,1007.88,3,4,4,344,11,Sleeping Customers
+U1210,265,6,1100.36,2,3,4,234,9,High check Customers
+U1211,290,8,1601.5,2,4,5,245,11,Lost Customers
+U1212,234,8,1362.96,3,4,4,344,11,Sleeping Customers
+U1213,244,7,1407.75,3,4,4,344,11,Sleeping Customers
+U1214,228,9,957.03,3,4,4,344,11,Sleeping Customers
+U1215,217,8,825.44,3,4,3,343,10,Sleeping Customers
+U1216,237,10,2232.95,3,5,5,355,13,Sleeping Customers
+U1217,236,6,675.71,3,3,3,333,9,Sleeping Customers
+U1218,410,10,1286.25,2,5,4,254,11,Lost Customers
+U1219,287,9,955.13,2,4,4,244,10,Lost Customers
+U1220,344,8,1258.02,2,4,4,244,10,Lost Customers
+U1221,222,9,1149.5,3,4,4,344,11,Sleeping Customers
+U1222,232,9,1266.2,3,4,4,344,11,Sleeping Customers
+U1223,218,9,1204.94,3,4,4,344,11,Sleeping Customers
+U1224,295,6,670.16,2,3,3,233,8,High check Customers
+U1225,392,6,602.9,2,3,3,233,8,High check Customers
+U1226,272,10,963.6600000000001,2,5,4,254,11,Lost Customers
+U1227,313,10,1033.8799999999999,2,5,4,254,11,Lost Customers
+U1228,328,6,1861.8700000000001,2,3,5,235,10,High check Customers
+U1229,306,9,1451.21,2,4,5,245,11,Lost Customers
+U1230,242,10,1887.07,3,5,5,355,13,Sleeping Customers
+U1231,502,5,848.43,1,3,4,134,8,High check Customers
+U1232,277,9,1261.2,2,4,4,244,10,Lost Customers
+U1233,415,6,1751.23,2,4,5,245,11,Lost Customers
+U1234,218,9,1134.81,3,4,4,344,11,Sleeping Customers
+U1235,271,6,855.24,2,4,4,244,10,Lost Customers
+U1236,234,6,1524.22,3,4,5,345,12,Sleeping Customers
+U1237,293,5,426.11,2,3,3,233,8,High check Customers
+U1238,220,7,1238.98,3,4,4,344,11,Sleeping Customers
+U1239,262,4,636.87,3,3,3,333,9,Sleeping Customers
+U1240,266,5,527.3299999999999,2,3,3,233,8,High check Customers
+U1241,291,6,519.5699999999999,2,4,3,243,9,High check Customers
+U1242,267,8,1653.5500000000002,2,4,5,245,11,Lost Customers
+U1243,236,6,1096.86,3,4,4,344,11,Sleeping Customers
+U1244,232,5,833.73,3,3,3,333,9,Sleeping Customers
+U1245,292,5,952.49,2,3,4,234,9,High check Customers
+U1246,226,8,1745.46,3,4,5,345,12,Sleeping Customers
+U1247,401,8,1330.55,2,4,4,244,10,Lost Customers
+U1248,237,6,1121.7,3,4,4,344,11,Sleeping Customers
+U1249,298,10,1479.96,2,5,5,255,12,Lost Customers
+U1250,216,6,686.37,3,4,3,343,10,Sleeping Customers
+U1251,216,4,859.54,3,3,4,334,10,Sleeping Customers
+U1252,311,4,628.23,2,3,3,233,8,High check Customers
+U1253,304,8,1342.8500000000001,2,4,4,244,10,Lost Customers
+U1254,217,6,572.51,3,4,3,343,10,Sleeping Customers
+U1255,216,8,1497.78,3,4,5,345,12,Sleeping Customers
+U1256,467,2,133.22,2,2,1,221,5,Regular Customers
+U1257,629,4,239.01999999999998,1,3,2,132,6,High check Customers
+U1258,608,2,114.04,1,2,1,121,4,Regular Customers
+U1259,531,3,201.53,1,2,2,122,5,Regular Customers
+U1260,550,1,58.01,1,1,1,111,3,Regular Customers
+U1261,474,3,206.04,2,2,2,222,6,Regular Customers
+U1262,484,4,361.69,1,3,3,133,7,High check Customers
+U1263,566,4,481.68,1,3,3,133,7,High check Customers
+U1264,480,2,139.67000000000002,1,2,2,122,5,Regular Customers
+U1265,660,2,177.4,1,2,2,122,5,Regular Customers
+U1266,439,2,101.48,2,2,1,221,5,Regular Customers
+U1267,467,2,98.5,2,2,1,221,5,Regular Customers
+U1268,651,1,21.96,1,1,1,111,3,Regular Customers
+U1269,433,4,321.13,2,3,3,233,8,High check Customers
+U1270,518,3,198.4,1,2,2,122,5,Regular Customers
+U1271,703,1,359.58,1,1,3,113,5,Regular Customers
+U1272,449,1,103.31,2,1,1,211,4,Regular Customers
+U1273,507,1,103.4,1,1,1,111,3,Regular Customers
+U1274,613,2,106.25999999999999,1,2,1,121,4,Regular Customers
+U1275,692,2,180.45999999999998,1,2,2,122,5,Regular Customers
+U1276,486,4,159.51,1,3,2,132,6,High check Customers
+U1277,554,1,120.62,1,1,1,111,3,Regular Customers
+U1278,465,2,88.89,2,2,1,221,5,Regular Customers
+U1279,476,1,25.04,2,1,1,211,4,Regular Customers
+U1280,589,1,48.77,1,1,1,111,3,Regular Customers
+U1281,537,4,585.41,1,3,3,133,7,High check Customers
+U1282,448,1,83.07,2,1,1,211,4,Regular Customers
+U1283,492,2,75.28,1,2,1,121,4,Regular Customers
+U1284,546,4,450.54,1,3,3,133,7,High check Customers
+U1285,435,4,331.03,2,3,3,233,8,High check Customers
+U1286,599,1,85.57,1,1,1,111,3,Regular Customers
+U1287,472,3,174.01,2,2,2,222,6,Regular Customers
+U1288,649,1,73.76,1,1,1,111,3,Regular Customers
+U1289,433,2,179.39,2,2,2,222,6,Regular Customers
+U1290,461,1,21.39,2,1,1,211,4,Regular Customers
+U1291,437,3,124.97,2,2,1,221,5,Regular Customers
+U1292,551,1,73.44,1,1,1,111,3,Regular Customers
+U1293,440,4,247.46,2,3,2,232,7,High check Customers
+U1294,517,1,96.79,1,1,1,111,3,Regular Customers
+U1295,511,2,119.67999999999999,1,2,1,121,4,Regular Customers
+U1296,708,1,156.16,1,1,2,112,4,Regular Customers
+U1297,487,4,192.82,1,3,2,132,6,High check Customers
+U1298,535,3,88.24,1,2,1,121,4,Regular Customers
+U1299,507,4,216.26999999999998,1,3,2,132,6,High check Customers
+U1300,479,4,286.16,1,3,2,132,6,High check Customers
+U1301,510,1,48.27,1,1,1,111,3,Regular Customers
+U1302,606,1,106.83,1,1,1,111,3,Regular Customers
+U1303,483,3,171.12,1,2,2,122,5,Regular Customers
+U1304,460,3,284.48,2,2,2,222,6,Regular Customers
+U1305,494,4,260.49,1,3,2,132,6,High check Customers
+U1306,505,4,225.96,1,3,2,132,6,High check Customers
+U1307,448,4,329.78000000000003,2,3,3,233,8,High check Customers
+U1308,577,2,180.45,1,2,2,122,5,Regular Customers
+U1309,593,2,597.18,1,2,3,123,6,Regular Customers
+U1310,469,3,124.78999999999999,2,2,1,221,5,Regular Customers
+U1311,477,4,222.05,1,3,2,132,6,High check Customers
+U1312,479,2,122.07,1,2,1,121,4,Regular Customers
+U1313,444,3,216.58,2,2,2,222,6,Regular Customers
+U1314,646,1,34.19,1,1,1,111,3,Regular Customers
+U1315,451,2,169.07999999999998,2,2,2,222,6,Regular Customers
+U1316,466,3,221.64999999999998,2,2,2,222,6,Regular Customers
+U1317,492,4,349.24,1,3,3,133,7,High check Customers
+U1318,428,1,42.9,2,1,1,211,4,Regular Customers
+U1319,431,2,151.2,2,2,2,222,6,Regular Customers
+U1320,613,2,88.41,1,2,1,121,4,Regular Customers
+U1321,445,2,205.63,2,2,2,222,6,Regular Customers
+U1322,589,2,103.56,1,2,1,121,4,Regular Customers
+U1323,544,2,169.70999999999998,1,2,2,122,5,Regular Customers
+U1324,540,4,324.70000000000005,1,3,3,133,7,High check Customers
+U1325,480,4,171.93,1,3,2,132,6,High check Customers
+U1326,431,2,162.39,2,2,2,222,6,Regular Customers
+U1327,504,2,269.18,1,2,2,122,5,Regular Customers
+U1328,557,1,94.3,1,1,1,111,3,Regular Customers
+U1329,672,1,89.74,1,1,1,111,3,Regular Customers
+U1330,620,2,65.53,1,2,1,121,4,Regular Customers
+U1331,573,2,128.0,1,2,1,121,4,Regular Customers
+U1332,580,2,61.47,1,2,1,121,4,Regular Customers
+U1333,432,1,42.81,2,1,1,211,4,Regular Customers
+U1334,556,3,160.17000000000002,1,2,2,122,5,Regular Customers
+U1335,430,3,252.26999999999998,2,2,2,222,6,Regular Customers
+U1336,507,1,51.45,1,1,1,111,3,Regular Customers
+U1337,540,4,256.06,1,3,2,132,6,High check Customers
+U1338,497,3,227.11,1,2,2,122,5,Regular Customers
+U1339,490,1,112.62,1,1,1,111,3,Regular Customers
+U1340,533,4,311.97,1,3,3,133,7,High check Customers
+U1341,476,4,291.31,2,3,3,233,8,High check Customers
+U1342,524,4,193.15,1,3,2,132,6,High check Customers
+U1343,458,3,96.65,2,2,1,221,5,Regular Customers
+U1344,494,4,374.76,1,3,3,133,7,High check Customers
+U1345,459,1,25.9,2,1,1,211,4,Regular Customers
+U1346,479,2,111.38,1,2,1,121,4,Regular Customers
+U1347,656,3,306.92,1,2,3,123,6,Regular Customers
+U1348,633,1,53.55,1,1,1,111,3,Regular Customers
+U1349,540,1,63.94,1,1,1,111,3,Regular Customers
+U1350,475,3,451.71,2,2,3,223,7,Regular Customers
+U1351,430,3,152.10999999999999,2,2,2,222,6,Regular Customers
+U1352,439,3,317.67,2,2,3,223,7,Regular Customers
+U1353,442,3,184.72,2,2,2,222,6,Regular Customers
+U1354,526,2,85.69,1,2,1,121,4,Regular Customers
+U1355,478,4,373.94,1,3,3,133,7,High check Customers
+U1356,439,1,26.56,2,1,1,211,4,Regular Customers
+U1357,532,4,229.22,1,3,2,132,6,High check Customers
+U1358,495,2,156.75,1,2,2,122,5,Regular Customers
+U1359,518,4,238.12,1,3,2,132,6,High check Customers
+U1360,597,4,283.51,1,3,2,132,6,High check Customers
